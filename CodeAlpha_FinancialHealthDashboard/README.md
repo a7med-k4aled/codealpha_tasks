@@ -212,7 +212,7 @@ The dashboard consists of **6 interactive pages**, each focused on a specific ar
 
 ### 1. Overview
 
-![Overview Dashboard](images/01-overview.png)
+![Overview Dashboard](Images/Overview.png)
 
 The **Overview** page provides a high-level view of the company's overall business performance.
 
@@ -229,7 +229,7 @@ The page also provides interactive analysis across **Year, Quarter, Category, an
 ---
 ### 2. Income Statement
 
-![Income Statement Dashboard](images/02-Income%20Statement.png)
+![Income Statement Dashboard](Images/Income%20Statement.png)
 
 The **Income Statement** page focuses on the company's revenue and profitability performance.
 
@@ -246,7 +246,7 @@ This page helps evaluate how revenue is converted into gross and net profit whil
 ---
 ### 3. Balance Sheet
 
-![Balance Sheet Dashboard](images/03-Balance%20Sheet.png)
+![Balance Sheet Dashboard](Images/Balance%20Sheet.png)
 
 The **Balance Sheet** page provides an overview of the company's financial position and key financial health indicators.
 
@@ -264,7 +264,7 @@ These indicators provide a view of the company's liquidity, profitability, and o
 ---
 ### 4. Cash Flow
 
-![Cash Flow Dashboard](images/04-Cash%20Flow.png)
+![Cash Flow Dashboard](Images/Cash%20Flow.png)
 
 The **Cash Flow** page focuses on the company's cash generation and operating cash flow performance.
 
@@ -280,7 +280,7 @@ The page helps evaluate the company's ability to generate positive cash flow fro
 ---
 ### 5. Business Performance
 
-![Business Performance Dashboard](images/05-Business%20Performance.png)
+![Business Performance Dashboard](Images/Business%20Performance.png)
 
 The **Business Performance** page focuses on customer, product, order, and revenue analysis.
 
@@ -298,7 +298,7 @@ The page provides a broader view of business performance and helps analyze custo
 ---
 ### 6. Financial Planning
 
-![Financial Planning Dashboard](images/06-Financial%20Planning)
+![Financial Planning Dashboard](Images/Financial%20Planning.png)
 
 The **Financial Planning** page focuses on future financial performance and revenue forecasting.
 
